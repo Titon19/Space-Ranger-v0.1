@@ -7,5 +7,3 @@ Game Space Ranger dengan menggunakan bahasa pemrograman python.
 
 
 //SELAMAT BERMAIN//
-
-s
