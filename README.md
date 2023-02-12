@@ -3,7 +3,7 @@ Game Space Ranger dengan menggunakan bahasa pemrograman python.
 
 #CARA MENJALANKAN GAME:
 1. Ekstrak File yang sudah didownload
-2. Buka File SpaceRanger.exe
+2. Buka File SpaceRanger v0.1.exe
 
 
 //SELAMAT BERMAIN//
